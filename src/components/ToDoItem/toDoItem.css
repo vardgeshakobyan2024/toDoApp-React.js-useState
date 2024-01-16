@@ -1,0 +1,11 @@
+.toDoItem {
+    margin: 10px auto;
+    width: 300px;
+    border: 1px solid #808080;
+    padding: 8px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 600;
+}
